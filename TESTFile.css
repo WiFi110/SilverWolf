@@ -1,4 +1,12 @@
-body{background-color: #34364b}
+body{
+    background-image:url(BackroomWall.jpg);
+}
 
-.main1 {color: #fff}
-.main1 {text-align: center;}
+.main1{
+    position: relative;
+}
+
+.main2{
+    position: absolute;
+    transform: translate(100%,100%);
+}
